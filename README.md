@@ -141,5 +141,5 @@ Built to capture the creative freedom of Minecraft with the emergent systems of 
 
 ## 📬 Contact
 
-Ava Aeon - [your.email@example.com]  
-GitHub: [@your-username](https://github.com/your-username)
+Ava Aeon - [sgossett0919@gmail.com]  
+GitHub: [@avaaeon](https://github.com/avaaeon)
